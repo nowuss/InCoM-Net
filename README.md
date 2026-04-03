@@ -10,8 +10,9 @@
 
 </div>
 
+
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2604.02071)
 <!--
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2412.08774)
 [![Supplementary](https://img.shields.io/badge/Supplementary-PDF-1f6feb.svg)](https://github.com/taeiin/AAAI2025-JoVALE/blob/main/docs/AAAI2025_JoVALE_supplementary_Material.pdf)
 -->
 
